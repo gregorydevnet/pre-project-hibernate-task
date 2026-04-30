@@ -1,0 +1,1 @@
+insert into users(name, age, email) values ('Alex', 22, 'alex@mail.ru');
